@@ -425,7 +425,7 @@ there.
 
 #menu {
 
-	background-color:#FC9;
+	background-color:#000000;
 	position:fixed;
     left: 0;
     top: 0;
@@ -464,7 +464,7 @@ there.
 
 
 .navbar a:hover, a:active {
-    background-color:#C96;
+    background-color:#2C3539;
 	z-index:1001;
 }
 
